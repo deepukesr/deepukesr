@@ -37,8 +37,10 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/deepu-kesarwani-363350243/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepu-kesarwani-363350243/)  
 📧 deepukesarwani38@gmail.com
+
+
 
 ---
 
