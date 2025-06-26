@@ -4,39 +4,41 @@
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 Projects I’m Working On
 
 - 🛰️ **AI-Based Land Demarcation System**  
-  Using drone orthophotos for smart land mapping *(GeoMinds Project)*
-
-- 🍽️ **Smart Canteen Ordering System**  
-  Intuitive frontend with dynamic ordering and real-time status tracking
+  Using drone orthophotos for smart land mapping *(Smart India Hackathon project)*
 
 - 🎉 **Interactive College Event Management Platform**  
-  Includes role-based dashboards, discussion forums, and event planning tools
+  A dynamic system with role-based dashboards, event planning, registration, and discussions
+
+- 🛒 **Satyam Kirana Store Web Application**  
+  Lightweight e-commerce site for local kirana store with real-time inventory and ordering
+
+- 🌱 **NurseryPlants Web Application**  
+  A plant catalog and shopping platform with filter, cart, and responsive design
 
 ---
 
-## 🌱 What I’m Learning
-
-- ⚙️ Data Engineering with **Apache Airflow** & **SQL**
-- 📊 Diving deep into **Data Science** and **Machine Learning**
-- 💻 Frontend development with **React.js** and **Tailwind CSS**
+## 🌱 Currently Exploring
+ 
+- 📊 **Data Science & Machine Learning** with Python (pandas, seaborn, matplotlib)  
+- 💻 **Frontend Development** with React.js, Tailwind CSS, HTML5, and CSS3
 
 ---
 
 ## 💡 Interests
 
 - 🌐 Web Development  
-- 📈 Data Science & Analytics  
+- 📈 Data Visualization & Analytics  
 - 🤖 Automation & Artificial Intelligence  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepu-kesarwani/)  
-📧 deepukesarwani000@gmail.com
+[![LinkedIn](https://www.linkedin.com/in/deepu-kesarwani-363350243/)  
+📧 deepukesarwani38@gmail.com
 
 ---
 
@@ -46,30 +48,41 @@
 {
   "Languages": [
     "Python",
+    "Java",
+    "C++",
+    "C",
     "JavaScript",
-    "HTML",
-    "CSS",
-    "SQL"
+    "PHP"
   ],
-  "Libraries/Frameworks": [
+  "Frameworks": [
+    "HTML5",
+    "CSS3",
+    "React.js",
+    "Tailwind CSS"
+  ],
+  "Libraries": [
     "Pandas",
+    "NumPy",
     "Matplotlib",
     "Seaborn",
-    "Airflow",
-    "React (Learning)"
+    "etc."
   ],
   "Tools": [
     "VS Code",
-    "Git",
-    "GitHub",
+    "Git & GitHub",
     "Jupyter Notebook",
     "MySQL",
-    "Figma"
+    "Figma",
+    "XAMPP",
+    "Google Colab",
+  
   ],
   "Skills": [
+    "Frontend Development",
     "Data Cleaning",
     "Exploratory Data Analysis (EDA)",
-    "REST APIs",
-    "Responsive Web Design"
+    "Data Visualization",
+    "Responsive Web Design",
+    "REST APIs Integration"
   ]
 }
